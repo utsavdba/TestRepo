@@ -1,2 +1,3 @@
 This is ec file1
 This is ec file2
+This is ec file3
